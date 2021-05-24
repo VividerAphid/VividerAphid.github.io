@@ -1,0 +1,18 @@
+body {
+	color:#fff;
+	background-color:#222;
+	font-size:20px;
+}
+a{
+	color:#088;
+}
+a:visited{
+	color:#808;
+}
+a:hover{
+	color:#0dd;
+}
+img{
+	width:30%;
+	height:30%;
+}
